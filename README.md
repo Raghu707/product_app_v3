@@ -23,7 +23,9 @@ The Product App is an Angular-based application that displays a list of products
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/product-app.git
+   git clone
+   https://github.com/Raghu707/product_app_v3.git
+   
 
    Navigate to the Project Directory
 

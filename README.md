@@ -37,15 +37,4 @@ The Product App is an Angular-based application that displays a list of products
 Start the Angular development server:
 ng serve -o
 
-product-app/
-├── src/
-│   ├── app/
-│   │   ├── app.component.ts      # Main component
-│   │   ├── app.component.html     # Main component template with product cards
-│   │   ├── app.component.css      # Styling for the main component
-│   │   └── ...                    # Other Angular files
-│   
-│   │                   
-│   └── index.html                 # Main HTML file
-└── package.json                   # Project dependencies
-cd product-app
+
